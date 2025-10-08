@@ -36,3 +36,4 @@ from ranked
 WHERE ranking = 1
 ORDER BY reportg_date, portfolio
 ) TO '/Best_funds_monthly.csv' CSV HEADER;
+
